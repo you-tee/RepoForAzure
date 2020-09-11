@@ -15,7 +15,7 @@ namespace WebAppYouTee.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "YouTee's Page";
+            ViewBag.Message = "YouTee's Page edited";
 
             return View();
         }
